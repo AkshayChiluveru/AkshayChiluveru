@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AkshayChiluveru
-- 👀 I’m interested in Learning Web development
-- 🌱 I’m currently learning React js
+- 👀 I’m interested in Learning Data Science
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me akshaynetha2610@gmail.com
 
 <!---
 AkshayChiluveru/AkshayChiluveru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
